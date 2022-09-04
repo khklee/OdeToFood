@@ -2,7 +2,7 @@
 
 namespace OdeToFood.Core
 {
-    public class Restaurant
+    public class Restaurant 
     {
         public int Id { get; set; }
 
